@@ -80,10 +80,10 @@ for i, comp in enumerate(svd.components_):
 		print(x)
 
 
-#print(index_word_map)
-"""
+
 plt.scatter(Z[:,0], Z[:,1])
 for i in range(D):
 	plt.annotate(index_word_map[i], xy=(Z[i,0], Z[i,1]))
-plt.show()"""
+plt.show()
+
 
