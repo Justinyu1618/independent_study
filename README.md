@@ -1,10 +1,7 @@
-# independent_study
+#High School Independent Study Project
+#**Abstractive Summarization: Current Methods and Drawbacks**
 
-High school independent study project.
-
-Title: Abstractive Summarization: Current Methods and Drawbacks
-
-Abstract
+##Abstract
 In recent years, one of the fastest growing applications of machine learning and natural language
 processing is in the field of summarization technologies. With a rapid expansion in the volume of
 publicly accessible information, summarization technologies are becoming increasingly crucial
@@ -16,5 +13,17 @@ summarization methods, and proposes a new method for approaching abstractive sum
 
 
 
-Task:
+##Task:
 I implemented a classical-AI text summarization system called Opinosis from [this paper](http://sifaka.cs.uiuc.edu/czhai/pub/coling10-opinosis.pdf) using Python and the NTLK (Python Natural Language Toolkit)
+
+I read through the following papers regarding abstractive and extractive summarization methods, comparing and contrasting these two categories of summarization algorithms:
+- [Review of Abstractive Summarization Methods](https://drive.google.com/open?id=0B3ldwpaUHYkFQjNLSVJMRVJBeEk)
+- [From Extractive to Abstractive Summarization](https://drive.google.com/open?id=0B3ldwpaUHYkFSzd1bUpPNUFUaUU)
+- [Ontology_Based_Abstractive_Summarization](https://drive.google.com/open?id=0B3ldwpaUHYkFVFZkelV3U1dOekE)
+- [Simple NLG](https://drive.google.com/open?id=0B3ldwpaUHYkFR2xVcll1SXNwRUE)
+- [Framework for Abstractive Summarization using Text-to-Text Generation](https://drive.google.com/open?id=0B3ldwpaUHYkFcTcyYUVGcUtTTEU)
+- [A Graph Based Approach to Learn Semantic Descriptions of Data Sources](https://drive.google.com/open?id=0B3ldwpaUHYkFZ1JjRzhlT1hqTDg)
+- [Semantic Graph Reduction Approach for Abstractive Text Summarization](https://drive.google.com/open?id=0B3ldwpaUHYkFS05uYlhFWFZ4TzA)
+
+
+
