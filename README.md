@@ -1,7 +1,7 @@
-#High School Independent Study Project
-#**Abstractive Summarization: Current Methods and Drawbacks**
+# High School Independent Study Project
+# **Abstractive Summarization: Current Methods and Drawbacks**
 
-##Abstract
+## Abstract
 In recent years, one of the fastest growing applications of machine learning and natural language
 processing is in the field of summarization technologies. With a rapid expansion in the volume of
 publicly accessible information, summarization technologies are becoming increasingly crucial
@@ -13,7 +13,7 @@ summarization methods, and proposes a new method for approaching abstractive sum
 
 
 
-##Task:
+## Task:
 I implemented a classical-AI text summarization system called Opinosis from [this paper](http://sifaka.cs.uiuc.edu/czhai/pub/coling10-opinosis.pdf) using Python and the NTLK (Python Natural Language Toolkit)
 
 I read through the following papers regarding abstractive and extractive summarization methods, comparing and contrasting these two categories of summarization algorithms:
