@@ -1,5 +1,5 @@
-# High School Independent Study Project
 # **Abstractive Summarization: Current Methods and Drawbacks**
+#### This is my high school senior independent study project.
 
 ## Abstract
 In recent years, one of the fastest growing applications of machine learning and natural language
